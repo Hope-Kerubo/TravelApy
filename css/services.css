@@ -32,4 +32,25 @@
 }
 #div3{
     display: flex;
+    background-color: mistyrose;
+}
+
+#subdiv1{
+    background-color: red;
+    color: white;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding: 30px;
+}#subdiv2{
+    background-color: blue;
+    color: white;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding: 30px;
+}#subdiv3{
+    background-color: green;
+    color: white;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding: 30px;
 }
