@@ -41,16 +41,22 @@
     margin-right: 20px;
     margin-top: 20px;
     padding: 30px;
+    box-shadow: 10px 8px 4px gray;
 }#subdiv2{
     background-color: blue;
     color: white;
     margin-right: 20px;
     margin-top: 20px;
     padding: 30px;
+    box-shadow: 10px 8px 4px gray;
 }#subdiv3{
     background-color: green;
     color: white;
     margin-right: 20px;
     margin-top: 20px;
     padding: 30px;
+    box-shadow: 10px 8px 4px gray;
 }
+ #subdiv1:hover,#subdiv2:hover,#subdiv3:hover{
+     background-color: grey;
+ }
